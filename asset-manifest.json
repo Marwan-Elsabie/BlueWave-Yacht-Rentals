@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BlueWave-Yacht-Rentals/static/css/main.d79409c4.css",
-    "main.js": "/BlueWave-Yacht-Rentals/static/js/main.35ca41a5.js",
+    "main.js": "/BlueWave-Yacht-Rentals/static/js/main.f4bcdc26.js",
     "static/media/hero-yacht.jpg": "/BlueWave-Yacht-Rentals/static/media/hero-yacht.11a03de019a78b0ba5b0.jpg",
     "index.html": "/BlueWave-Yacht-Rentals/index.html",
     "main.d79409c4.css.map": "/BlueWave-Yacht-Rentals/static/css/main.d79409c4.css.map",
-    "main.35ca41a5.js.map": "/BlueWave-Yacht-Rentals/static/js/main.35ca41a5.js.map"
+    "main.f4bcdc26.js.map": "/BlueWave-Yacht-Rentals/static/js/main.f4bcdc26.js.map"
   },
   "entrypoints": [
     "static/css/main.d79409c4.css",
-    "static/js/main.35ca41a5.js"
+    "static/js/main.f4bcdc26.js"
   ]
 }
